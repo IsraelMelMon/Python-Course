@@ -1,0 +1,11 @@
+Matrícula	Nombre	Antigüedad (en años)	Salario (por año)
+1584363	Israel Melendez Montoya	3	400000
+1576853	Hernán Martínez Sánchez	7	500000
+1234542	Abner Angel Anzures Estrada 	2	378000
+1263862	Hugo Carlos Costilla Gómez	4	750000
+7833412	Jesus Briones Durán	5	342300
+4677865	Alondra Sánchez Orozco	1	923000
+3242341	Juan Ángel Hernández Montoya 	3	323000
+2312313	Artemisio Garza Sada	12	892230
+2342341	Rodrigo García Rodríguez	2	324233
+3245323	Omar Álvarez Palacios	7	1150000
