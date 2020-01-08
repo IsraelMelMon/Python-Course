@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="201.7448mm"
+   height="68.833015mm"
+   viewBox="0 0 201.74479 68.833016"
+   version="1.1"
+   id="svg385"
+   sodipodi:docname="print.svg"
+   inkscape:version="0.92.2 5c3e80d, 2017-08-06">
+  <defs
+     id="defs379" />
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="1.28"
+     inkscape:cx="455.8867"
+     inkscape:cy="151.8939"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     showgrid="false"
+     inkscape:window-width="1386"
+     inkscape:window-height="855"
+     inkscape:window-x="0"
+     inkscape:window-y="1"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata382">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-16.743162,-45.645824)">
+    <rect
+       style="fill:#f9f9f9;stroke-width:0.2767126"
+       id="rect472"
+       width="201.7448"
+       height="68.833015"
+       x="16.743162"
+       y="45.645824"
+       ry="0.36549228" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="21.695833"
+       y="74.75"
+       id="text389"><tspan
+         sodipodi:role="line"
+         id="tspan387"
+         x="21.695833"
+         y="74.75"
+         style="fill:#0000ff;stroke-width:0.26458332"><tspan
+   style="fill:#008000"
+   id="tspan393"><tspan
+   style="font-weight:bold"
+   id="tspan397">def</tspan> </tspan>printHello<tspan
+   style="fill:#000000"
+   id="tspan391">():</tspan></tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="47.813988"
+       y="88.924103"
+       id="text401"><tspan
+         sodipodi:role="line"
+         id="tspan399"
+         x="47.813988"
+         y="88.924103"
+         style="fill:#008000;stroke-width:0.26458332">print</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.23147011px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.25578675"
+       x="78.905945"
+       y="85.176041"
+       id="text405"
+       transform="scale(0.96675308,1.0343903)"><tspan
+         sodipodi:role="line"
+         id="tspan403"
+         x="78.905945"
+         y="85.176041"
+         style="stroke-width:0.25578675">(             )</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:10.58333302px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.26458332"
+       x="82.679504"
+       y="88.105263"
+       id="text409"><tspan
+         sodipodi:role="line"
+         id="tspan407"
+         x="82.679504"
+         y="88.105263"
+         style="fill:#800000;stroke-width:0.26458332">&quot;Hola mundo&quot;</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.40327644px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48508188"
+       x="-106.31236"
+       y="35.154236"
+       id="text434"
+       transform="matrix(0,-0.90164659,1.109082,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan432"
+         x="-106.31236"
+         y="35.154236"
+         style="stroke-width:0.48508188">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.12492752px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12812318"
+       x="21.079485"
+       y="91.440826"
+       id="text438"
+       transform="scale(0.91581356,1.0919253)"><tspan
+         sodipodi:role="line"
+         id="tspan436"
+         x="21.079485"
+         y="91.440826"
+         style="stroke-width:0.12812318">indentación</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:20.87703514px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.52192581"
+       x="-198.36444"
+       y="81.060165"
+       id="text442"
+       transform="scale(-0.84489445,1.1835798)"><tspan
+         sodipodi:role="line"
+         id="tspan440"
+         x="-198.36444"
+         y="81.060165"
+         style="stroke-width:0.52192581">{</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.16409302px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12910232"
+       x="175.24884"
+       y="75.340446"
+       id="text446"
+       transform="scale(0.96900746,1.0319838)"><tspan
+         sodipodi:role="line"
+         id="tspan444"
+         x="175.24884"
+         y="75.340446"
+         style="stroke-width:0.12910232">código</tspan><tspan
+         sodipodi:role="line"
+         x="175.24884"
+         y="81.795563"
+         style="stroke-width:0.12910232"
+         id="tspan448">ejecutado</tspan><tspan
+         sodipodi:role="line"
+         x="175.24884"
+         y="88.250679"
+         style="stroke-width:0.12910232"
+         id="tspan450">al mandar</tspan><tspan
+         sodipodi:role="line"
+         x="175.24884"
+         y="94.705795"
+         style="stroke-width:0.12910232"
+         id="tspan452">a llamar</tspan><tspan
+         sodipodi:role="line"
+         x="175.24884"
+         y="101.16091"
+         style="stroke-width:0.12910232"
+         id="tspan454">la función</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.55099344px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.13877483"
+       x="104.61422"
+       y="55.627365"
+       id="text458"
+       transform="scale(0.9628942,1.0385357)"><tspan
+         sodipodi:role="line"
+         id="tspan456"
+         x="104.61422"
+         y="55.627365"
+         style="stroke-width:0.13877483">espacio para argumentos de la función</tspan></text>
+    <path
+       style="fill:none;stroke:#000000;stroke-width:0.26458332px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1"
+       d="m 109.24397,59.185049 v 5.581055"
+       id="path460"
+       inkscape:connector-curvature="0" />
+    <path
+       sodipodi:type="star"
+       style="fill:#000000;stroke-width:0.26458332"
+       id="path462"
+       sodipodi:sides="3"
+       sodipodi:cx="25.838217"
+       sodipodi:cy="39.444653"
+       sodipodi:r1="11.947877"
+       sodipodi:r2="5.9739389"
+       sodipodi:arg1="0.65042141"
+       sodipodi:arg2="1.697619"
+       inkscape:flatsided="true"
+       inkscape:rounded="0"
+       inkscape:randomized="0"
+       d="M 35.34668,46.679353 14.818551,44.061873 27.349419,27.592732 Z"
+       inkscape:transform-center-x="-0.00025183237"
+       inkscape:transform-center-y="0.56914523"
+       transform="matrix(0.08349613,0.02421457,0.01068829,-0.1891624,106.65932,71.680315)" />
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:5.04323864px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.12608097"
+       x="49.593945"
+       y="59.380798"
+       id="text466"
+       transform="scale(0.9510758,1.0514409)"><tspan
+         sodipodi:role="line"
+         id="tspan464"
+         x="49.593945"
+         y="59.380798"
+         style="stroke-width:0.12608097">nombre de la función</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-variant:normal;font-weight:normal;font-stretch:normal;font-size:19.5424366px;line-height:1.25;font-family:Consolas;-inkscape-font-specification:Consolas;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none;stroke-width:0.48856091"
+       x="149.53769"
+       y="-25.894552"
+       id="text470"
+       transform="matrix(0,0.42366659,-2.3603466,0,0,0)"><tspan
+         sodipodi:role="line"
+         id="tspan468"
+         x="149.53769"
+         y="-25.894552"
+         style="stroke-width:0.48856091">{</tspan></text>
+  </g>
+</svg>
